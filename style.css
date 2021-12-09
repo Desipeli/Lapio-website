@@ -1,1 +1,5 @@
-p { background-color: red; }
+p { color: red; }
+H1 { color: blue; }
+UL { color: pink; }
+.otsikko2 { color: red; }
+#luku { color: red; }
