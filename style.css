@@ -8,19 +8,36 @@ UL { color: pink; }
     width: 200px;
     height: 100px;
     background-color: red;
-    
+    text-align: center;
+    line-height: 400%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+    text-transform: uppercase;
 }
 .toka {
     position: absolute;
     width: 200px;
     height: 100px;
     background-color: yellow;
-    left: 250px
+    left: 250px;
+    text-align: center;
+    line-height: 65px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    text-transform: uppercase;
 }
 .koli {
     position: absolute;
     width: 200px;
     height: 100px;
     background-color: green;
-    left: 500px
+    left: 500px;
+    text-align: center;
+    line-height: 65px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    text-transform: uppercase;
 }
