@@ -1,5 +1,26 @@
-p { color: red; }
+p { color: black; }
 H1 { color: blue; }
 UL { color: pink; }
 .otsikko2 { color: red; }
 #luku { color: red; }
+.eka {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    
+}
+.toka {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    left: 250px
+}
+.koli {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    left: 500px
+}
