@@ -1,8 +1,8 @@
-p { color: black; }
+p { color: #555; }
 H1 { color: blue; }
-UL { color: pink; }
-.otsikko2 { color: red; }
-#luku { color: red; }
+UL { color: #333; }
+.otsikko2 { color: #222;}
+#luku { color: #111 }
 .eka {
     position: absolute;
     width: 200px;
@@ -40,4 +40,11 @@ UL { color: pink; }
     border-width: 10px;
     border-color: yellow;
     text-transform: uppercase;
+}
+body {
+    margin: 0 auto;
+    max-width: 50em ;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em
 }
